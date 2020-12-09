@@ -1,5 +1,6 @@
 import faker from 'faker';
 
+console.log('Products!');
 let products = '';
 
 for(let i = 0; i < 15; i++) {
